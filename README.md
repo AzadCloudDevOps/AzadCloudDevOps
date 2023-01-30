@@ -5,17 +5,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azadclouddevops&" alt="azadclouddevops" /></p>
 
-🌱 I’m currently upskilling **DevOps Tools**
-
-👨‍💻 All of my projects are available at [GitHub](https://github.com/AzadCloudDevOps)
-
-📝 I write articles on [Hashnode](https://akash-zade.hashnode.dev/)
-
-📫 How to reach me?
-
-  - Connect with me on [LinkedIn](https://www.linkedin.com/in/akash-zade/) <br>
-  - Mailme at [Email](mailto:zakash9422@gmail.com) 💌 <br> 
-
 <h3 align="left">:zap: Skills</h3>
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" /> </a>
@@ -27,6 +16,18 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 </p>
+
+🌱 Upskilling **DevOps Tools**
+
+👨‍💻 My projects available at [GitHub](https://github.com/AzadCloudDevOps)
+
+📝 Articles on [Hashnode](https://akash-zade.hashnode.dev/)
+
+📫 How to reach me?
+
+  - Connect with me on [LinkedIn](https://www.linkedin.com/in/akash-zade/) <br>
+  - Mailme at [Email](mailto:zakash9422@gmail.com) 💌 <br> 
+
 
 <h3 align="left">📊 Github Stats (Expand to View)</h3> 
 <details>
