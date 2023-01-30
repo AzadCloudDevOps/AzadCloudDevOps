@@ -9,6 +9,11 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azadclouddevops&" alt="azadclouddevops" /></p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/116208380/215477116-ba26f6a0-600c-4467-bf2e-0742adc89fcb.png">
 
+- Upskilling **DevOps Tools**</br>
+- Available Projects @[GitHub](https://github.com/AzadCloudDevOps)</br>
+- Articles📝 </br><a href="https://akash-zade.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg" alt="Hashnode" width="80" height="50"/> </a> </br>
+- Connect with me: </br><a href="https://www.linkedin.com/in/akash-zade/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" width="80" height="40"/> </a>
+
 <h3 align="left">:zap: Skills</h3>
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" /> </a>
@@ -21,24 +26,11 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 </p>
 
-🌱 Upskilling **DevOps Tools**
-
-👨‍💻 My projects available at [GitHub](https://github.com/AzadCloudDevOps)
-
-📝 Articles on [Hashnode](https://akash-zade.hashnode.dev/)
-
-📫 How to reach me?
-
-  - Connect with me on [LinkedIn](https://www.linkedin.com/in/akash-zade/) <br>
-  - Mailme at [Email](mailto:zakash9422@gmail.com) 💌 <br> 
-
-
-<h3 align="left">📊 Github Stats (Expand to View)</h3> 
+<h3>GitHub Stats:</h3>
 <details>
-<summary><b>💻 GitHub Profile Stats</b></summary>
+<summary><b>📊 GitHub Profile Stats</b></summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=azadclouddevops&show_icons=true&locale=en" alt="azadclouddevops" />
 </details>
-
 <details>
 <summary><b>📈 My Top Languages</b></summary>
 <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azadclouddevops&show_icons=true&locale=en&layout=compact" alt="azadclouddevops" /></p>
