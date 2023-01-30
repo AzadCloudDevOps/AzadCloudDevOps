@@ -1,9 +1,11 @@
+![Logo]()
 <h1 align="center">Hello, I'm Akash Zade 👋</h1>
 <align="center">Enthusiastic about DevOps & Cloud AWS. Having a keen interest in cloud computing, containerization & automation & learning various DevOps Tools & Methodologies like Docker, Kubernetes, Jenkins with a goal of improving software development and deployment process.</>
 
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azadclouddevops&" alt="azadclouddevops" /></p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/116208380/215477116-ba26f6a0-600c-4467-bf2e-0742adc89fcb.png">
 
 <h3 align="left">:zap: Skills</h3>
 <p align="left"> 
