@@ -1,4 +1,5 @@
-![Logo](https://user-images.githubusercontent.com/116208380/215479973-0cfcbf26-2a12-423e-92e8-775e27334e19.png)
+![Logo](https://user-images.githubusercontent.com/116208380/215481214-5af1b71c-c4f0-484b-9d81-ab940145ce71.png)
+
 
 <h1 align="center">Hello, I'm Akash Zade 👋</h1>
 <align="center">Enthusiastic about DevOps & Cloud AWS. Having a keen interest in cloud computing, containerization & automation & learning various DevOps Tools & Methodologies like Docker, Kubernetes, Jenkins with a goal of improving software development and deployment process.</>
