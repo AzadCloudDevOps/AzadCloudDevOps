@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/116208380/215481214-5af1b71c-c4f0-484b-9d81-ab940145ce71.png)
+<img align="center" alt="Logo" width=900 src="https://user-images.githubusercontent.com/116208380/215482372-2c567abb-2643-4ecb-bae2-4224fd5e6cb2.png">
 
 
 <h1 align="center">Hello, I'm Akash Zade 👋</h1>
