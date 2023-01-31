@@ -25,17 +25,18 @@ Welcomes you here!!
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/116208380/215477116-ba26f6a0-600c-4467-bf2e-0742adc89fcb.png">
 
 ## Talking about me
-- 🏆Hands-on knowledge @**DevOps Tools**</br>
-- 💪Good handson on Linux🐧 & Windows, both the operating systems.
+- 🏆Upskilling @**DevOps Tools**</br>
 - 🔥Available Projects @[GitHub](https://github.com/AzadCloudDevOps)</br>
+- 💪Good handson on Linux🐧 & Windows, both the operating systems.</br>
+- 👀Checkout the Articles📝 @[Hashnode-Blog](https://akash-zade.hashnode.dev)</br>
 - 🤝Let's discuss on DevOps with a cup of ☕.
-- 👀Checkout the Articles📝 </br><a href="https://akash-zade.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg" alt="Hashnode" width="80" height="50"/> </a> </br>
 
 <h3 align="left">:zap: Skills</h3>
 
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" /> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
@@ -59,7 +60,7 @@ Welcomes you here!!
 <img width="200px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg?&logo=linkedin&logoColor=skyblue" />
 </a>
 <a href="https://github.com/AzadCloudDevOps">
-<img  width="100px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg?&logo=github&logoColor=magenta" />
+<img  width="100px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg?&logo=github&logoColor=white" />
 </a>
 </div>
 <align="center">**Always on the hunt for new and exciting opportunities to learn & grow.**</>
