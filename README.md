@@ -54,7 +54,7 @@ Welcomes you here!!
  ⦿ Follow me on [Hashnode](https://hashnode.com/@akash315) 🌐 <br>
  ⦿ Shoot me an [Email](mailto:zakash9422@gmail.com) 💌 <br>
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring the repositories!
 
    <p align="left"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
