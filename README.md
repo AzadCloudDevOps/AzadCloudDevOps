@@ -20,7 +20,7 @@
 - 🔥Available Projects @[GitHub](https://github.com/AzadCloudDevOps)</br>
 - 💪Strong handson on Linux🐧 & Windows💻 operating systems.</br>
 - 👀Checkout the DevOps & AWS articles📝 @[Hashnode-Blog](https://hashnode.com/@akash315)</br>
-- 🤝Love to discussion on DevOps with a cup of ☕.
+- 🤝Love to discuss on DevOps with a cup of ☕.
 
 <h3 align="left">:zap: Skills</h3>
 
