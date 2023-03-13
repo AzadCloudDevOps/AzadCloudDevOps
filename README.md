@@ -5,7 +5,7 @@
   </h1>
 
 <h2 align="center">
-  Welcomes, you all here!!
+  Welcomes you all here!!
   </h2>
 <br>
 </br>
@@ -63,7 +63,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Love to connect with different people</b> 😃 </em>
 
-### Show some ❤️ by starring the repositories!
+### Give some ❤️ by starring the repositories!
 </div>
 
 #### Thanks for visiting :heart:
