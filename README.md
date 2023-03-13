@@ -18,9 +18,9 @@
 ## Talking about me
 - 🏆Hands-on experience @**DevOps Tools**</br>
 - 🔥Available Projects @[GitHub](https://github.com/AzadCloudDevOps)</br>
-- 💪Good handson on Linux🐧 & Windows💻, both the operating systems.</br>
-- 👀Checkout the DevOps related stuffs📝 @[Hashnode-Blog](https://akash-zade.hashnode.dev)</br>
-- 🤝Let's discuss on DevOps with a cup of ☕.
+- 💪Strong handson on Linux🐧 & Windows💻 operating systems.</br>
+- 👀Checkout the DevOps & AWS articles📝 @[Hashnode-Blog](https://hashnode.com/@akash315)</br>
+- 🤝Love to discussion on DevOps with a cup of ☕.
 
 <h3 align="left">:zap: Skills</h3>
 
